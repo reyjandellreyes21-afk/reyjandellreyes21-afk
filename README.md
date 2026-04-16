@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
+<h1 align="center">Hi, I'm REY JANDELL 👋</h1>
 <h3 align="center">Full-Stack Developer • AI Integration • Mobile Development</h3>
 
 <p align="center">
